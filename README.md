@@ -1,4 +1,6 @@
 # EASyWEB
+Warning: This project is vibe coded, meaning that is made by Artificial Intelligence.
+
 Welcome to EASyWEB, where you can decode EAS
 right in your web browser!
 
